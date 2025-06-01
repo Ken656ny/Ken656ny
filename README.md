@@ -26,7 +26,7 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
 </div>
 
 #### 🧠 Backend
@@ -72,9 +72,3 @@
 </div>
 
 ---
-
-### 🐍 Snake Animation:
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cristhian-dev/cristhian-dev/output/snake.svg" alt="Snake animation" />
-</div>
