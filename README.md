@@ -2,19 +2,19 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<h2 align="center">¡Hola 👋! Soy Cristhian</h2>
+<h2 align="center">Hi 👋! I'm Cristhian</h2>
 
 ---
 
-🎓 Tengo 17 años, soy **Bachiller Técnico en Programación de Software**  
-💻 Actualmente curso el **Tecnólogo en Análisis y Desarrollo de Software**  
-🧠 Participo en todo el **ciclo de vida del software**: análisis, diseño, desarrollo y pruebas  
-📜 Cuento con **certificados de Cisco y otras plataformas**  
-🌟 Apasionado por crear aplicaciones completas y aprender cosas nuevas todos los días
+🎓 I'm 17 years old, a **Software Programming Technical Graduate**  
+💻 Currently studying **Software Analysis and Development (Technologist program)**  
+🧠 I participate in the entire **software development lifecycle**: analysis, design, development, and testing  
+📜 I hold **certifications from Cisco and other platforms**  
+🌟 Passionate about building complete applications and learning new things every day
 
 ---
 
-### 🛠 Tecnologías que uso
+### 🛠 Technologies I Use
 
 #### 🌐 Frontend
 <div align="left">
@@ -40,12 +40,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
 </div>
 
-#### 🗄️ Bases de datos
+#### 🗄️ Databases
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
 
-#### 🔁 Desarrollo Full Stack
+#### 🔁 Full Stack Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="10"/>
@@ -59,13 +59,13 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristhian-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristhian-dev&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cristhian-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristhian-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ---
 
-### 🔥 Racha diaria de contribuciones:
+### 🔥 Daily Contribution Streak:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=cristhian-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
@@ -73,7 +73,7 @@
 
 ---
 
-### 🐍 Animación Snake:
+### 🐍 Snake Animation:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/cristhian-dev/cristhian-dev/output/snake.svg" alt="Snake animation" />
