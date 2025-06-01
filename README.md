@@ -73,8 +73,4 @@
 
 ---
 
-### 🐍 Snake Animation:
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/snake.svg" alt="Snake animation" />
-</div>
